@@ -17,4 +17,6 @@ Android原生实现的洛克王国图鉴, 遵循谷歌**Material3**设计. 您�
 - [ ] 场景数据
 - [ ] 精灵进化信息
 
- 
+## 下载体验
++ Release 版本V1.1, 发布时间2024/10/07, 稳定
+  - [点击下载 V1.1](https://github.com/roco-kindom/picture-book-open/releases/download/release_v1.1/release_v1.1.apk)
